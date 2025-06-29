@@ -26,7 +26,7 @@ This project is a comprehensive analysis of European flight data using Microsoft
 ## 📁 Dataset
 
 The dataset used in this project was sourced from Kaggle’s open-source flight data repository.  
-[Kaggle Dataset Link (example)](https://www.kaggle.com/) *(replace with actual link if available)*
+(https://www.kaggle.com/)
 
 ## 🧾 Outcome
 
